@@ -1,12 +1,12 @@
-1. #Mikhail Polozov
+1. Mikhail Polozov
 * Contacts:
   * mikepolo@yandex.ru
   * +7 920 046 98 70
 
 3. Summary:
--As a Junior frontend developer (started my way in October 2019) I am doing my best to absorb as much my peers' experience as possible. By now I have been involved in an internal project within a huge IT company and I am surrounded by a huge number of highly experienced professionals, both frontend and backend guys.
--I have got a fluent english and see no obstacles while sourcing english-speaking resources
--I am hungry for improvement and ready for challenges to blow my mind and prove that I am worth of much more. I am fully confident and will proceed further despite a number of difficulties on the way
+- As a Junior frontend developer (started my way in October 2019) I am doing my best to absorb as much my peers' experience as possible. By now I have been involved in an internal project within a huge IT company and I am surrounded by a huge number of highly experienced professionals, both frontend and backend guys.
+- I have got a fluent english and see no obstacles while sourcing english-speaking resources
+- I am hungry for improvement and ready for challenges to blow my mind and prove that I am worth of much more. I am fully confident and will proceed further despite a number of difficulties on the way
 
 4. Skills:
 * PureJS/HTML/CSS
@@ -49,6 +49,6 @@ Several repos of mine:
 * https://github.com/MikeShark/AngularJs_practice - Angular JS practice
 * https://github.com/MikeShark/todolist/settings - ToDo list (pureJS)
 
-7. #Education:
+7. Education:
 * Donetsk National University (translator/interpreter, English)
-8. #English - fluent (oral and written), this is my occupation and I have had a lot of practice while working as a freelance translator
+8. English - fluent (oral and written), this is my occupation and I have had a lot of practice while working as a freelance translator
